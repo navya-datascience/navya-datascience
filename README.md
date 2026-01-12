@@ -1,4 +1,4 @@
-# Hi, I'm Navya 👋
+# Hi, I'm Navya 
  BCA Data Science student 
  Aspiring Data Analyst   
  Building projects in analytics & social impact (Zero Hunger App)
